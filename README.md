@@ -9,7 +9,7 @@ The standard weight conversion values include:
 1 ton = 2000 pounds
 1 pound = 16 ounces
 
-<img src="data/excel_image.jpg" height="240" >
+<img src="data/Screenshot 2023-02-04 175425.png" height="240" >
 
 
 
@@ -30,7 +30,7 @@ The standard weight conversion values include:
 
 ## Code 
 
-* [Code](code/web_scraping.py)
+* [Code](code/main.py)
 
 
 
